@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 python3 --version
 sudo yum install python3-pip
 sudo pip3 install flask
@@ -23,3 +24,6 @@ sudo su
 docker build -t myimg .
 docker run -d -p5000:5000 --name myflaskcontainer myimg 
 
+=======
+# pythonapp
+>>>>>>> df4c752275a9703c1badf2b720521d280b9eb12f
